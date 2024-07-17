@@ -24,4 +24,4 @@ I'm a software engineer with a passion for open-source projects and learning new
 - [LinkedIn](https://www.linkedin.com/in/johndoe)
 - [Twitter](https://twitter.com/johndoe)
 
-![xkdd3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkdd3000&show_icons=true&theme=radical&locale=zh)
+![xkdd3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkdd3000&show_icons=true&theme=radical)
